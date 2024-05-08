@@ -26,6 +26,6 @@
       ]
     },
     "url": "https://github.com/Semajox/pk5e",
-    "manifest": "https://raw.githubusercontent.com/Jerakin/p5e-foundryVTT/release/module.json",
-    "download": "https://github.com/Jerakin/p5e-foundryVTT/releases/download/v1.1.0.201220/Pokemon5e.zip"
+    "manifest": "https://raw.githubusercontent.com/Semajox/pk5e/v0.0.2/module.json",
+    "download": "https://github.com/Semajox/pk5e/releases/download/v0.0.2/pk5e.zip"
   }
