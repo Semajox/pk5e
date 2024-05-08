@@ -1,0 +1,18 @@
+{
+    "id": "pk5e",
+    "title": "Pokemon 5e Module Rebirth",
+    "description": "Modulo de practica para jugar Pokemon 5e",
+    "authors": [
+      {
+      "name": "Semajox"
+      },
+      {
+      "name": "Grayman"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11"
+    }
+  }
